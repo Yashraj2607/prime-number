@@ -1,6 +1,6 @@
 var num =5;
 var count =0
-for(var i =1;i<num;i++){
+for(var i =1;i<=0num;i++){
 if(num%i===0){
 count++
 }
